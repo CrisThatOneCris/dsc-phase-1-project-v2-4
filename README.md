@@ -1,1 +1,10 @@
-# dsc-phase-1-project-v2-4
+# Movie Analysis for Movie Production
+**Author**: Cristopher Delgado 
+
+## Overview 
+## Buisness Problem
+## Data
+## Methods
+## Results 
+## Conclusion
+### Next Steps

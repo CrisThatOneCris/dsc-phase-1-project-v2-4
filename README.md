@@ -29,12 +29,13 @@ Sales are important in movie production as this will determine the ROI. Consider
 ![Sale Based on Approrate Movie Audience](images/image-1.png)
 
 ![Sale Basesd on Month](images/image-2.png)
+![ROI Domestic by Month](image.png)
 
 ## Conclusion
 This analysis hgas lead to three recommendations for Microsofts's new movie production studio:
 
 - **Make movies with the following genres: Western, Romance, History, Animation, Family, Mystery, Thriller, Science Fiction, War, Crime, Fantasy, Action, Adventure.** These genres had a popularity score of 40 percent or higher which according to TMDB is considered good through excellent. 
 - **Make movies with the intended Audience of PG-13 and PG.** These intended audience ratings proved to have the higher box office sales in comparison to rated R and G movies. 
-- **Release movies in the summer time as well as the end of the year.** The time of the year matters when releasing movies. We can see this occur in the months of June, July, November, December and February. 
+- **Release movies in the summer time as well as the end of the year.** The time of the year matters when releasing movies. We can see this occur in the months of May, June, July, November, December and February. 
 
 ### Next Steps

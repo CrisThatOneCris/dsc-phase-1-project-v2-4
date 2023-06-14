@@ -11,7 +11,9 @@ Microsoft sees all the big companies creating original video content and they wa
 ## Methods
 ## Results 
 ![Popularity Score Based on Genre](images/image.png)
+
 ![Sale Based on Approrate Movie Audience](images/image-1.png)
+
 ![Sale Basesd on Month](images/image-2.png)
 ## Conclusion
 ### Next Steps

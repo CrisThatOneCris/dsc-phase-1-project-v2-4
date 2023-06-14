@@ -24,8 +24,11 @@ It was essential to consider this score from the TMDB dataset to trulty factor i
 
 ![Popularity Score Based on Genre](images/image.png)
 
+Sales are important in movie production as this will determine the ROI. Considering a movies characteristics such as intended audience and its release date can impact its Box Office Sale. As we can see PG-13 movies and PG make the most Box Office Sales which can make the most ROI. Releasing a movie at a certain tim of the year can impact the Box Office Sales as we can see below. 
+
 ![Sale Based on Approrate Movie Audience](images/image-1.png)
 
 ![Sale Basesd on Month](images/image-2.png)
+
 ## Conclusion
 ### Next Steps

@@ -10,6 +10,18 @@ Microsoft sees all the big companies creating original video content and they wa
 ## Data
 ## Methods
 ## Results 
+The [popularity score](https://developer.themoviedb.org/docs/popularity-and-trending) is a unique characteristic property in the TMDB dataset. 
+
+The popularity score is the lifelong culmination of: 
+- Number of votes for the day 
+- Number of viewsd for the day
+- Number of users who marked it as a 'favourite' for the day 
+- Release date
+- Number of total votes 
+- Accounts for the previous days score
+
+It was essential to consider this score from the TMDB dataset to trulty factor in many factors calculated by TMDB. This score is a good representation of popularity over the movies lifetime since the release date. Taking this score into consideration we can determine which genres are the most popular. 
+
 ![Popularity Score Based on Genre](images/image.png)
 
 ![Sale Based on Approrate Movie Audience](images/image-1.png)

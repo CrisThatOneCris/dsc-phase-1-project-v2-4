@@ -8,6 +8,7 @@ Microsoft sees all the big companies creating original video content and they wa
 > ### Buisness Understanding 
 > Microsoft wants to enter the movie production business however as a rookie in this business they need insight on audience opinions about characteristics about movies. Audience opinions impact ROI. In addition to learning about what an audience enjoys, Microsoft must also consider when to release their movies to get the most ROI. 
 ## Data
+The data analysis performed in this repository is based on datasets from [Box Office Mojo](https://www.boxofficemojo.com/), [IMDB](https://www.imdb.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [TheMovieDB](https://www.themoviedb.org/), and [The Numbers](https://www.the-numbers.com/). The Box Office Mojo dataset contains information about movie domestic gross and worldwide gross. The IMDB database contains information about movie production team, cast, basic information, and ratings. The Rotten Tomatoes dataset contains information about critic reviews along with there rating and if the movie was fresh or rotten. The TheMovieDB dataset contains information about a movies genre, vote average, vote count, and popularity score. The Numbers dataset contains information about a movies production buget, domestic gross, worldwide gross, and release date. 
 ## Methods
 ## Results 
 The [popularity score](https://developer.themoviedb.org/docs/popularity-and-trending) is a unique characteristic property in the TMDB dataset. 

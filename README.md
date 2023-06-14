@@ -39,3 +39,6 @@ This analysis hgas lead to three recommendations for Microsofts's new movie prod
 - **Release movies in the summer time as well as the end of the year.** The time of the year matters when releasing movies. We can see this occur in the months of May, June, July, November, December and February. 
 
 ### Next Steps
+Further analysis can provide additional insights for Microsoft and there new movie production studio. Other exploratory routes to take can be the following directions: 
+- Explore the ROI based on director for the movie. Directors are important to any movie production as they will be the ones to organize and envision movie scenes and guide its production. The main goal is to pick the best director. 
+- Create a model where you can predict the best years to release movies. Evnetually any movie studio will have to create an organized timeline for movie releases especially if sequels are made. Predicting a year to release movies can be crucial to obtain the most ROI.

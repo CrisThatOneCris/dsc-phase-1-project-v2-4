@@ -12,7 +12,7 @@ The data analysis performed in this repository is based on datasets from [Box Of
 ## Methods
 This project analyzes the trends over time in regards to movie performance. The analysis can provide insight to movie production.
 ## Results 
-The [popularity score](https://developer.themoviedb.org/docs/popularity-and-trending) is a unique characteristic property in the TMDB dataset. 
+The popularity score is a unique characteristic property in the TMDB dataset. 
 
 The popularity score is the lifelong culmination of: 
 - Number of votes for the day 
@@ -21,6 +21,7 @@ The popularity score is the lifelong culmination of:
 - Release date
 - Number of total votes 
 - Accounts for the previous days score
+> Information about the [popularity score](https://developer.themoviedb.org/docs/popularity-and-trending). 
 
 It was essential to consider this score from the TMDB dataset to truly factor in many factors calculated by TMDB. This score is a good representation of popularity over the movies lifetime since the release date. Taking this score into consideration we can determine which genres are the most popular. 
 

@@ -34,6 +34,8 @@ Sales are important in movie production as this will determine the ROI. Consider
 
 ![ROI Domestic by Month](images/ROI_Domestic.png)
 
+![ROI Worldwide by Month](images/ROI_Worlwide.png)
+
 ## Conclusion
 This analysis hgas lead to three recommendations for Microsofts's new movie production studio:
 

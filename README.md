@@ -49,3 +49,16 @@ Further analysis can provide additional insights for Microsoft and there new mov
 - Explore the ROI based on director for the movie. Directors are important to any movie production as they will be the ones to organize and envision movie scenes and guide its production. The main goal is to pick the best director. 
 - Create a model where you can predict the best years to release movies. Eventually any movie studio will have to create an organized timeline for movie releases especially if sequels are made. Predicting a year to release movies can be crucial to obtain the most ROI.
 - Merge Box Office Mojo data with The Number since they contain similar information and look at the domestic gross made on average throughout the year. 
+
+### Repository Structure 
+
+```
+├── images
+├── zippedData
+├── .gitignore
+├── Movie Analysis for Future Movie Productions.pdf
+├── PROJECTDESC.md
+├── README.md
+├── exploratory.ipynb
+└── movie_analysis.ipynb
+```
